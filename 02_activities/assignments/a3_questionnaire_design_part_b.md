@@ -11,11 +11,11 @@
 
     ```
     Yes, I'd make a few changes:
-- Clearer questions: Rewording some questions for clarity (e.g., changing "Do you believe there are sufficient opportunities for career advancement?" to "How satisfied are you with career advancement opportunities?").
-- More response options: Adding "Not applicable" or "Don't know" options for better accuracy.
-- Demographic questions: Including questions on department and tenure for subgroup analysis.
-- Ethical considerations: Adding a consent statement to ensure anonymity and voluntary participation.
-These changes improve clarity, reduce bias, and ensure ethical standards.
+    - Clearer questions: Rewording some questions for clarity (e.g., changing "Do you believe there are sufficient opportunities for career advancement?" to "How satisfied are you with career advancement opportunities?").
+    - More response options: Adding "Not applicable" or "Don't know" options for better accuracy.
+    - Demographic questions: Including questions on department and tenure for subgroup analysis.
+    - Ethical considerations: Adding a consent statement to ensure anonymity and voluntary participation.
+    These changes improve clarity, reduce bias, and ensure ethical standards.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
