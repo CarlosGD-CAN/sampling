@@ -4,19 +4,25 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    The sample quality depends on the completeness of the HR database. If it includes all current and former entry-level employees, the sample could be representative. However, nonresponse bias (especially from former employees) or an incomplete database could affect the representativeness. Overcoming these issues would require efforts to follow up with nonrespondents or ensure all subgroups are included.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    Yes, I'd make a few changes:
+
+- Clearer questions: Rewording some questions for clarity (e.g., changing "Do you believe there are sufficient opportunities for career advancement?" to "How satisfied are you with career advancement opportunities?").
+- More response options: Adding "Not applicable" or "Don't know" options for better accuracy.
+- Demographic questions: Including questions on department and tenure for subgroup analysis.
+- Ethical considerations: Adding a consent statement to ensure anonymity and voluntary participation.
+These changes improve clarity, reduce bias, and ensure ethical standards.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    No, an observational study wouldn't fully address the purpose. While it could identify turnover trends, it wouldn't explain why employees leave, which is crucial for understanding turnover drivers. The survey captures subjective factors like job satisfaction and career advancement, which can’t be observed directly.
     ```
 
 ## Why am I doing this assignment?
