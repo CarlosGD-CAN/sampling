@@ -11,7 +11,6 @@
 
     ```
     Yes, I'd make a few changes:
-
 - Clearer questions: Rewording some questions for clarity (e.g., changing "Do you believe there are sufficient opportunities for career advancement?" to "How satisfied are you with career advancement opportunities?").
 - More response options: Adding "Not applicable" or "Don't know" options for better accuracy.
 - Demographic questions: Including questions on department and tenure for subgroup analysis.
